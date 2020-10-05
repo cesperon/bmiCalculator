@@ -2,9 +2,8 @@
 //  CalculatorBrain.swift
 //  BMI Calculator
 //
-//  Created by chrise on 10/4/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
-//  Controls bmi setting and getting methods
+//Author: Christian Esperon
+//Description: BMI Calculator, input height and weight to find BMI
 
 import UIKit
 import Foundation
